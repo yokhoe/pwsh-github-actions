@@ -15,3 +15,4 @@ if ($ExitCode) {
 $Env:MyVariable
 $Parameter1
 $PSVersionTable
+$Env:ComputerName
